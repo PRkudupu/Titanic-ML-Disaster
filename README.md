@@ -4,7 +4,6 @@
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.This data science project will give you introdcution on how to use Python to apply various machine learning techniques to the RMS Titanic dataset and predict which passenger would have survived the tragedy.
 
 #### Data Field details:
-
 The dataset consists of 11 predictor variables and a binary target variable "survived". The features include assengerId
 * PassengerId -- A numerical id assigned to each passenger.
 * Survived    -- Whether the passenger survived (1), or didn't (0). We'll be making predictions for this column.
@@ -20,7 +19,7 @@ The dataset consists of 11 predictor variables and a binary target variable "sur
 * Embarked    -- Where the passenger boarded the Titanic.
 There are 891 records of passengers, out of which 342 survied and 549 who did not survive.
 ### Installation
-<code> git clone https://github.com/PRkudupu/Titanic-ML-Disaster.git  <br>
+<code> git clone https://github.com/PRkudupu/Titanic-ML-Disaster.git  </br>
 cd Titanic-ML-Disaster</code>
 ### Steps 
 Data Inspection
