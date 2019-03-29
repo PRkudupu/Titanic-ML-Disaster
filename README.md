@@ -19,8 +19,8 @@ The dataset consists of 11 predictor variables and a binary target variable "sur
 * Embarked    -- Where the passenger boarded the Titanic.
 There are 891 records of passengers, out of which 342 survied and 549 who did not survive.
 ### Installation
-<p><code> git clone https://github.com/PRkudupu/Titanic-ML-Disaster.git  <br>
-      cd Titanic-ML-Disaster</code> </p>
+<code> <tr>git clone https://github.com/PRkudupu/Titanic-ML-Disaster.git  </tr>
+      <tr>cd Titanic-ML-Disaster </tr></code> 
 ### Steps 
 Data Inspection
 
