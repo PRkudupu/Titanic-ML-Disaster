@@ -61,6 +61,6 @@ print(submission)
 ### Output
 ![alt text](op.JPG)
 ### License 
-Active Record is released under the MIT license:
+Titanic-ML-Disaster is released under the MIT license:
  <a href="https://opensource.org/licenses/MIT">opensource.org/licenses/MIT</a>.
 
