@@ -20,7 +20,7 @@ The dataset consists of 11 predictor variables and a binary target variable "sur
 * Embarked    -- Where the passenger boarded the Titanic.
 There are 891 records of passengers, out of which 342 survied and 549 who did not survive.
 
-## Steps 
+### Steps 
 Data Inspection
 
 Data Understanding
