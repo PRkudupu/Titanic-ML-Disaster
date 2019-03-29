@@ -33,8 +33,8 @@ Visualize
 
 Train the Model
 
-Test the Model <a>(deploy on unseen data)</a>
-
+Test the Model <a>(deploy on unseen data)
+      
 Evaluate the performance of the Model
 
 ### Inference
@@ -52,4 +52,5 @@ print(submission)
 </code>
 ### License 
 Active Record is released under the MIT license:
-opensource.org/licenses/MIT
+opensource.org/licenses/MIT <a href="opensource.org/licenses/MIT">here</a> to go to yahoo.
+
