@@ -33,7 +33,7 @@ Visualize
 
 Train the Model
 
-Test the Model (deploy on unseen data)
+Test the Model <a>(deploy on unseen data)</a>
 
 Evaluate the performance of the Model
 
