@@ -50,7 +50,7 @@ submission = pd.DataFrame({
     })
 print(submission)
 </code>
-# Titanic-ML-Disaster
+### Output
 ![alt text](op.jpg)
 ### License 
 Active Record is released under the MIT license:
