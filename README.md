@@ -51,7 +51,7 @@ submission = pd.DataFrame({
 print(submission)
 </code>
 ### Output
-![alt text](op.jpg)
+![alt text](op.JPG)
 ### License 
 Active Record is released under the MIT license:
  <a href="https://opensource.org/licenses/MIT">opensource.org/licenses/MIT</a>.
