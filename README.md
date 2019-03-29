@@ -52,5 +52,5 @@ print(submission)
 </code>
 ### License 
 Active Record is released under the MIT license:
-opensource.org/licenses/MIT <a href="opensource.org/licenses/MIT">here</a> to go to yahoo.
+ <a href="https://opensource.org/licenses/MIT">opensource.org/licenses/MIT</a> to go to yahoo.
 
