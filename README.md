@@ -23,6 +23,7 @@ There are 891 records of passengers, out of which 342 survied and 549 who did no
       <tr>
             <code>git clone https://github.com/PRkudupu/Titanic-ML-Disaster.git                                                                  </code>
       </tr>
+      <br>
       <tr>
           <code>cd Titanic-ML-Disaster</code> 
       </tr>
